@@ -1,3 +1,8 @@
+Nama  : Mochamad Arya Febryan
+NPM   : 23552011320
+Kelas : TIF RP-23 CNS A
+
+
 1. Jelaskan perbedaan antara Cubit dan Bloc dalam arsitektur Flutter.
 
 Jawaban:
